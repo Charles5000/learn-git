@@ -1,0 +1,3 @@
+let charles =  ( ) => {
+    return "foo";
+};
